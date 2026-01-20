@@ -1,0 +1,159 @@
+<svg id="stc8g1kXX_DIP_8" width="100%" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" style="height: auto;">
+                            <defs>
+                                <style>
+                                    text {
+                                        font-family: monospace;
+                                    }
+                                    .pin {
+                                        fill: #2d3748;
+                                        stroke: #b0b9d0;
+                                        stroke-width: 1;
+                                    }
+                                    .pin-num-internal {
+                                        font-size: 8px;
+                                        fill: #ffffff;
+                                        font-weight: bold;
+                                        text-anchor: middle;
+                                        dominant-baseline: middle;
+                                    }
+                                    .chip-name-internal {
+                                        font-size: 10px;
+                                        fill: #ffffff;
+                                        font-weight: bold;
+                                        text-anchor: middle;
+                                        dominant-baseline: middle;
+                                    }
+                                    .label-main {
+                                        font-size: 14px;
+                                        font-weight: bold;
+                                        dominant-baseline: middle;
+                                    }
+                                    .label-alt {
+                                        font-size: 9px;
+                                        fill: #666;
+                                        dominant-baseline: middle;
+                                    }
+                                    .grn {
+                                        fill: #029764;
+                                    }
+                                    .rd {
+                                        fill: #d93526;
+                                    }
+                                    .gnd {
+                                        fill: #555;
+                                    }
+                                </style>
+                            </defs>
+                            <g class="layer" display="inline">
+                                <title>STC8G1K17A</title>
+                                <g id="svg_44">
+                                    <text fill="#333" font-size="19.64" font-weight="bold" id="svg_1" text-anchor="middle" x="343" y="26">
+                                        SOP-8 / DIP-8 Package
+                                    </text>
+                                    <g id="svg_43" transform="translate(4.96 0) translate(53.835 0) matrix(0.980036 0 0 1 0.414289 0)">
+                                        <g id="svg_2" transform="matrix(1.74277 0 0 1.87384 180.903 24.2825)">
+                                            <path d="m10,10l100,0l0,115l-100,0l0,-115z" fill="#1a202c" id="svg_3" stroke="#b0b9d0" stroke-width="2"></path>
+                                            <path d="m50,10l0,5c0,10 20,10 20,0l0,-5l-20,0z" fill="#1a202c" id="svg_4" stroke="#b0b9d0"></path>
+                                            <rect class="pin" height="10" id="svg_5" width="10" x="0" y="20"></rect>
+                                            <rect class="pin" height="10" id="svg_6" width="10" x="0" y="45"></rect>
+                                            <rect class="pin" height="10" id="svg_7" width="10" x="0" y="70"></rect>
+                                            <rect class="pin" height="10" id="svg_8" width="10" x="0" y="95"></rect>
+                                            <rect class="pin" height="10" id="svg_9" width="10" x="110" y="20"></rect>
+                                            <rect class="pin" height="10" id="svg_10" width="10" x="110" y="45"></rect>
+                                            <rect class="pin" height="10" id="svg_11" width="10" x="110" y="70"></rect>
+                                            <rect class="pin" height="10" id="svg_12" width="10" x="110" y="95"></rect>
+                                            <text dominant-baseline="middle" fill="#ffffff" font-size="10px" font-weight="bold" id="svg_13" text-anchor="middle" x="60" y="70">
+                                                STC8G1K17A
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_14" x="15" y="25">
+                                                1
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_15" x="15" y="50">
+                                                2
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_16" x="15" y="75">
+                                                3
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_17" x="15" y="100">
+                                                4
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_18" x="105" y="25">
+                                                8
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_19" x="105" y="50">
+                                                7
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_20" x="105" y="75">
+                                                6
+                                            </text>
+                                            <text class="pin-num-internal" id="svg_21" x="105" y="100">
+                                                5
+                                            </text>
+                                        </g>
+                                        <text class="label-main grn" font-size="14" id="svg_22" text-anchor="end" x="170.42" y="66.12">
+                                            P5.4
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_23" text-anchor="end" x="169.1" y="76.9">
+                                            RST / MCLKO / INT2 / T0 / ADC4
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_24" text-anchor="end" x="169.1" y="86.9">
+                                            MOSI / SCL_2 / RxD_3
+                                        </text>
+                                        <text class="label-main rd" font-size="14" id="svg_25" text-anchor="end" x="171.73" y="114.2">
+                                            VCC
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_26" text-anchor="end" x="169.74" y="124.77">
+                                            AVCC (Analog Power)
+                                        </text>
+                                        <text class="label-main grn" font-size="14" id="svg_27" text-anchor="end" x="171.06" y="160.66">
+                                            P5.5
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_28" text-anchor="end" x="169.29" y="171.45">
+                                            INT3 / T1 / T0CLKO / ADC5 / SS
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_29" text-anchor="end" x="169.29" y="181.45">
+                                            SDA_2 / TxD_3 / ECI
+                                        </text>
+                                        <text class="label-main gnd" font-size="14" id="svg_30" text-anchor="end" x="170.4" y="207.13">
+                                            GND
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_31" text-anchor="end" x="169.29" y="217.7">
+                                            AGND (Analog Ground)
+                                        </text>
+                                        <text class="label-main grn" font-size="14" id="svg_32" text-anchor="start" x="399.81" y="66.55">
+                                            P3.3
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_33" text-anchor="start" x="402.27" y="78.3">
+                                            INT1 / ADC3 / MISO / SDA
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_34" text-anchor="start" x="402.27" y="88.3">
+                                            TxD_2 / CCP1
+                                        </text>
+                                        <text class="label-main grn" font-size="14" id="svg_35" text-anchor="start" x="399.64" y="115.71">
+                                            P3.2
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_36" text-anchor="start" x="401.5" y="127.44">
+                                            INT0 / ADC2 / SCLK / SCL
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_37" text-anchor="start" x="401.5" y="137.44">
+                                            RxD_2 / CCP0
+                                        </text>
+                                        <text class="label-main grn" font-size="14" id="svg_38" text-anchor="start" x="399.65" y="160.41">
+                                            P3.1
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_39" text-anchor="start" x="401.77" y="171.64">
+                                            TxD / ADC1 / ECI_3
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_40" text-anchor="start" x="401.77" y="181.64">
+                                            CCP0_2
+                                        </text>
+                                        <text class="label-main grn" font-size="14" id="svg_41" text-anchor="start" x="398.9" y="207.37">
+                                            P3.0
+                                        </text>
+                                        <text class="label-alt" font-size="9" id="svg_42" text-anchor="start" x="401.45" y="219.09">
+                                            RxD / INT4 / ADC0
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
